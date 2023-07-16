@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    net-http (0.3.2)
+      uri
+    uri (0.12.2)
+
+PLATFORMS
+  aarch64-linux
+
+DEPENDENCIES
+  net-http
+
+BUNDLED WITH
+   2.4.10
