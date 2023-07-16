@@ -14,6 +14,9 @@ url = URI.parse('https://grow-by-rubicon44.com/')
 url = URI.parse('https://api.grow-by-rubicon44.com/')
 ```
 
+## References
+- 「library net/http」：https://docs.ruby-lang.org/ja/latest/library/net=2fhttp.html
+
 ## Others
 - 「組み込みライブラリ」と「標準ライブラリ」の違い
   - 組み込みライブラリ：プログラミング言語自体に最初から含まれているライブラリ
